@@ -82,4 +82,9 @@ In this particular case i´m solving the first versión of the environment, whic
  - To test the trained agent:
  
  	`python agent_test.py`
+ 	
+### The base algorithm for this project is taken from the following udacity repo:
+
+https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-bipedal	
+ 
 	
